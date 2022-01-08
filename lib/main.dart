@@ -10,7 +10,7 @@ void main() {
           title: Text('I am MINI'),
           backgroundColor: Colors.purple[600],
         ),
-        body: Align(
+        body: const Align(
           alignment: Alignment.topLeft,
           child: Image(
             height: 200,
