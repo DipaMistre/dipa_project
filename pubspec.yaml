@@ -21,6 +21,16 @@ flutter:
   uses-material-design: true
   assets:
     - images/
+
+  fonts:
+  - family: TheNautigal
+    fonts:
+    - asset: fonts/TheNautigal-Regular.ttf
+
+  - family: MoonDance
+    fonts:
+    - asset: fonts/MoonDance-Regular.ttf
+
      
 
   
